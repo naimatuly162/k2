@@ -105,6 +105,10 @@ function goSubmit(frmId) {
     });
 }
 
+function goProceed(){
+    location.href= "../Reservation reception top_files/res_proceed.html";
+}
+
 /*
  * 郵便番号検索
  */

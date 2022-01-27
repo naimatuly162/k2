@@ -303,7 +303,7 @@ footer {
     }
 }
 
-@media screen and screen and (min-width: 75em) {
+@media screen and (min-width: 75em) {
     .top-bar-left {
         margin-left: 2%;
         width: 75%;
