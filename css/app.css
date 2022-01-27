@@ -316,7 +316,7 @@ footer {
     display: inline-block;
     width: 60px;
     height: 53px;
-    background: url(../../img/ebetu_icon.png);
+   background: url(../images_files/ebetu_icon.png);
     background-size: contain;
     vertical-align: middle;
     float: left;
